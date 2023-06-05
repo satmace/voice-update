@@ -1,0 +1,19 @@
+#tableContainer {
+    width: 500px;
+    margin: 50px auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  #recordButton {
+    margin-top: 20px;
+  }
+  
